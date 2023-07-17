@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-family: monospace;
+    line-height: 1.5;
+    font-weight: 400;
+
+    color-scheme: light dark;
+    background-color: #1f1f21;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    font-size: medium;
+}
+
+a {
+    @apply text-cosmic-green
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+h3 {
+    font-size: large;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+.clickable:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

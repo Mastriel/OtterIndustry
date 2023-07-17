@@ -1,0 +1,16 @@
+{
+  "resource:fish": {
+    "name": "Fish and Chips",
+    "description": "A small gill-bearin' animal that otta's are quite fond of munching down on, innit?"
+  },
+  "resource:aluminium": {
+    "name": "Aluminium",
+    "description": "A tin for regal crafts, such as tea cups and picture frames of the king!"
+  },
+  "resource:souls_of_the_innocent": {
+    "name": "Souls (Pure)",
+    "long_name": "Pure Hearted Souls, Innit!",
+    "description": "Souls of those with a jolly good pure heart, I say! Each bloomin' full soul collected sets off a jolly catastrophic event, by Jove! It's enough to make the teacups rattle and the crumpets jump off the plate, what with all the hubbub, you see. It's a right royal mess, fit for the king himself, I dare say!"
+  }
+}
+

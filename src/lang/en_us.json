@@ -1,0 +1,25 @@
+{
+  "resource:fish": {
+    "name": "Fish",
+    "description": "A small gill-bearing animal that otters are quite fond of devouring."
+  },
+  "resource:wood": {
+    "name": "Wood",
+    "description": "Reminiscent of an old tree. Used for many, <b>many</b> things."
+  },
+  "resource:aluminium": {
+    "name": "Aluminum",
+    "description": "A soft metal used for creating cans, foils, kitchen utensils, window frames, beer kegs, and more."
+  },
+  "resource:souls_of_the_innocent": {
+    "name": "Souls (Innocent)",
+    "long_name": "Souls of the Innocent",
+    "description": "Souls of those with a pure heart. Every full soul collected causes a catastrophic event to occur."
+  },
+  "command:find_fish": {
+    "name": "Find Fish (Solo)",
+    "long_name": "Find Fish",
+    "description": "Utilize your own skills to find a singular fish."
+  }
+}
+
