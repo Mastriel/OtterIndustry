@@ -1,6 +1,4 @@
 <script lang="ts">
-
-    import type {ModifierMap} from "../game/utils/modifiers";
     import type {ReactiveModifierMap} from "../game/utils/modifiers.js";
     import {displayOf} from "../game/utils/modifiers";
 

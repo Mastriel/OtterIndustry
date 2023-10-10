@@ -24,6 +24,7 @@ export type Modifier = {
     priority: number,
     /** Controls whether this modifier serializes onto whatever it is applied to. */
     serialize: boolean,
+    /** How long this modifier lasts for. */
     duration?: number
 }
 

@@ -6,7 +6,7 @@ import {alwaysInvisible, alwaysVisible, requiresDiscovery} from "../game/utils/v
 let resources = getGame().Resources
 
 
-export const Fish =resources.registerResource({
+export const Fish = resources.registerResource({
     id: "fish",
     name: t7e("resource:fish.name"),
     description: t7e("resource:fish.description"),
@@ -50,5 +50,7 @@ export const SoulsOfTheInnocent = resources.registerResource({
     color: "#ff2e3e",
     max: 1,
     visible: alwaysInvisible
-}).generationModifiers.set("entropy", modifier("Entropy", 0.001, "+", 1, 1))
+})
+
+SoulsOfTheInnocent.generationModifiers.set("entropy", modifier("Entropy", 0.001, "+", 1, 1))
 
