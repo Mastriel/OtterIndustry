@@ -1,7 +1,6 @@
-import type {StoredFetchable} from "../utils/writableUtils";
-import type {Readable} from "svelte/store";
-
+import type { StoredFetchable } from "../utils/writableUtils";
+import type { Readable } from "svelte/store";
 
 export interface Updatable {
-    getUpdater: () => Readable<this>
+    getUpdater: () => Readable<this>;
 }

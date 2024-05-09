@@ -1,9 +1,9 @@
 <script lang="ts">
-    import {type Readable} from "svelte/store";
+    import { type Readable } from "svelte/store";
 
-    export let trigger: Readable<any>
+    export let trigger: Readable<any>;
 
-    let index = false
+    let index = false;
 
-    trigger?.subscribe(() => index = !index)
+    trigger?.subscribe(() => index = !index);
 </script>

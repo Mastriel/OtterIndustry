@@ -1,3 +1,1 @@
-
-
-export type HTML = string
+export type HTML = string;

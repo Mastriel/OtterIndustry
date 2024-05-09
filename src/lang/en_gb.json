@@ -3,6 +3,14 @@
     "name": "Fish and Chips",
     "description": "A small gill-bearin' animal that otta's are quite fond of munching down on, innit?"
   },
+  "resource:wood": {
+    "name": "Wood",
+    "description": "A sturdy material for crafts, such as tea tables and picture frames of the king!"
+  },
+  "resource:stone": {
+    "name": "Stone",
+    "description": "A hard material for crafts, such as a royal chalice or a picture frame of the late queen!"
+  },
   "resource:aluminium": {
     "name": "Aluminium",
     "description": "A tin for regal crafts, such as tea cups and picture frames of the king!"
@@ -11,6 +19,11 @@
     "name": "Souls (Pure)",
     "long_name": "Pure Hearted Souls, Innit!",
     "description": "Souls of those with a jolly good pure heart, I say! Each bloomin' full soul collected sets off a jolly catastrophic event, by Jove! It's enough to make the teacups rattle and the crumpets jump off the plate, what with all the hubbub, you see. It's a right royal mess, fit for the king himself, I dare say!"
+  },
+  "command:find_fish": {
+    "name": "Find Fish",
+    "long_name": "Find Fish and Chips",
+    "description": "Search for a fish to munch on! Pair with chips for a proper meal, by Jove!"
   }
 }
 

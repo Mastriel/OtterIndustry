@@ -7,6 +7,10 @@
     "name": "Wood",
     "description": "Reminiscent of an old tree. Used for many, <b>many</b> things."
   },
+  "resource:stone": {
+      "name": "Stone",
+      "description": "A solid mineral material that can be used for building and crafting. It's heavy. Some have paw prints on them."
+  },
   "resource:aluminium": {
     "name": "Aluminum",
     "description": "A soft metal used for creating cans, foils, kitchen utensils, window frames, beer kegs, and more."
